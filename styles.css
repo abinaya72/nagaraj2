@@ -1,0 +1,74 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(img/background.jpeg);
+    background-size: cover;
+    backdrop-filter: blur(20px);
+}
+
+
+.one {
+    width: 50px;
+    height: 60px;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.two {
+   
+    text-align: center; /* Aligns the content of the element horizontally */
+    color: rgb(255, 255, 255); 
+    font-weight: bold;
+}
+
+.three {
+    display: inline-block;
+    position: relative;
+    width: 250px;
+    height: 60px;
+}
+.threee{
+    width: 50px;
+    height: 60px;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+
+.five{
+    margin: 30px;
+    width: 200px;
+    height: 200px;
+
+}
+.six{
+    color:white;
+}
+
+.eight{
+  
+width: 50px;
+height: 50px;
+    border-radius: 30%;
+    margin-right: 20px;
+    margin-top: 30px;
+    cursor: pointer;
+    background-color:blue ;
+}
+.container{
+    height: 600px;
+    width: 340px;
+    border-radius: 5%;
+    background-color: blueviolet;
+}
+.secondcon{
+    height: 500px;
+    width: 340px;
+    border-radius: 5%;
+    background-color: rgb(190, 187, 7);
+}
+
